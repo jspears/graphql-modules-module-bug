@@ -1,0 +1,11 @@
+{
+  "name": "graphql-module-bug",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.8.1",
+    "graphql-modules": "^2.3.0"
+  }
+}
